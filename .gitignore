@@ -1,0 +1,23 @@
+# PyInstaller
+build/
+dist/
+*.exe
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Copias y versiones antiguas
+*.bak
+
+# Restos de descargas
+*.part
+*.mp3
+.ivoox_descargados.txt
+
+# Sistema
+Thumbs.db
+desktop.ini
+.DS_Store
