@@ -3,6 +3,9 @@
 
 Aplicación de escritorio (Windows) para descargar **todos los episodios de un canal de iVoox** de una sola vez, con interfaz gráfica.
 
+
+Para o en vez de hacer todo esto te descargas el . exe y ejecutas  (lo tienes entre los archivos y en el reelease)
+
 ## Características
 
 - Descarga el canal completo recorriendo todas sus páginas.
